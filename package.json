@@ -12,6 +12,7 @@
     "hapi": "^8.4.0"
   },
   "devDependencies": {
+    "bower": "^1.4.1",
     "jasmine-node": "^1.14.5"
   }
 }
